@@ -1,0 +1,11 @@
+requests 2.26.0
+pip install requests
+
+BeautifulSoup 4
+pip install beautifulsoup4
+
+flask 2.0.x
+pip install Flask
+
+flask_sqlalchemy 2.x
+pip install Flask-SQLAlchemy
